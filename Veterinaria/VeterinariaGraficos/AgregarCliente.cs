@@ -47,5 +47,10 @@ namespace VeterinariaGraficos
                 System.Windows.Forms.MessageBox.Show(ex.Message);
             }
         }
+
+        private void txtNombreChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

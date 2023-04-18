@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31605.320
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{F920E0CC-6538-482D-9BDC-7C8A7D1F10CB}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{79BD76CA-D096-41D1-B686-B3D06AFB906F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinariaGraficos", "VeterinariaGraficos\VeterinariaGraficos.csproj", "{7DCC2E55-9358-46EE-B706-88B2A34D5B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic.Tests", "Logic.Tests\Logic.Tests.csproj", "{D6CA1D30-6B49-4D08-9A41-55B5058C306B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7DCC2E55-9358-46EE-B706-88B2A34D5B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCC2E55-9358-46EE-B706-88B2A34D5B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCC2E55-9358-46EE-B706-88B2A34D5B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CA1D30-6B49-4D08-9A41-55B5058C306B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CA1D30-6B49-4D08-9A41-55B5058C306B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CA1D30-6B49-4D08-9A41-55B5058C306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CA1D30-6B49-4D08-9A41-55B5058C306B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
